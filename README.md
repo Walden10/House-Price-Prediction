@@ -1,6 +1,8 @@
-# DataMining__BNM861-
-The Repository to act as supplementary appendix to the Data Mining Coursework of Candidate 202379
-The repository will contain the following files:
-  - The Jupyter Notebook file with the code
-  - The PDF Export of the rendered notebook
-  - The Datasets used for this analysis
+# House Price Prediction
+
+This project trains ML models to help predict Housing Prices based on house attributes.The project utilizes multiple ML models including:
+
+- Decision Trees
+- Random forest
+- SVR (Support Vector Regressor)
+- MLP (Multi-Layer Perceptron) Neural Network
